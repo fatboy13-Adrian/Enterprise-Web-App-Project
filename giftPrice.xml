@@ -1,0 +1,47 @@
+<?xml version="1.0" ?> 
+<yrRoot>
+	<Gifts>
+  		<giftName>giftA</giftName> 
+  		<quantity>98</quantity> 
+  	</Gifts>
+	<Gifts>
+  		<giftName>giftB</giftName> 
+  		<quantity>100</quantity> 
+  	</Gifts>
+	<Gifts>
+  		<giftName>giftC</giftName> 
+  		<quantity>100</quantity> 
+  	</Gifts>
+	<Gifts>
+ 	 	<giftName>giftD</giftName> 
+  		<quantity>100</quantity> 
+  	</Gifts>
+	<Gifts>
+  		<giftName>giftE</giftName> 
+  		<quantity>100</quantity> 
+  	</Gifts>
+	<Gifts>
+  		<giftName>giftF</giftName> 
+  		<quantity>100</quantity> 
+  	</Gifts>
+	<Gifts>
+  		<giftName>giftG</giftName> 
+  		<quantity>100</quantity> 
+  	</Gifts>
+	<Gifts>
+  		<giftName>giftH</giftName> 
+  		<quantity>100</quantity> 
+  	</Gifts>
+	<Gifts>
+  		<giftName>giftI</giftName> 
+  		<quantity>100</quantity> 
+  	</Gifts>
+	<Gifts>
+  		<giftName>giftJ</giftName> 
+  		<quantity>100</quantity> 
+  	</Gifts>
+	<Gifts>
+  		<giftName>giftK</giftName> 
+  		<quantity>100</quantity> 
+  	</Gifts>
+</yrRoot>

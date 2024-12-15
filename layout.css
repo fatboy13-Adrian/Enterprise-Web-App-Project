@@ -1,0 +1,100 @@
+body
+{
+	background: #C0C0C0;
+	font-family: arial;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 0px;
+}
+
+H1
+{
+	font-family: arial;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+
+H2
+{
+	font-family: arial;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+
+H3
+{
+	font-family: arial;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+}
+
+tr
+{
+	font-family: arial;
+	font-size: 15px;
+	text-align: center;
+}	
+
+td
+{
+	font-family: arial;
+	font-size: 15px;
+	text-align: center;
+}
+
+.others
+{
+	font-family: arial;
+	font-size: 15px;
+	text-align: left;
+}
+
+.giftA
+{
+	font-family: arial;
+	font-size: 15px;
+	text-align: center;
+	width: 10000px;
+}
+
+.giftB
+{
+	font-family: arial;
+	font-size: 15px;
+	text-align: center;
+	width: 10000px;
+}
+
+.giftC
+{
+	font-family: arial;
+	font-size: 15px;
+	text-align: center;
+	width: 10000px;
+}
+
+.giftD
+{
+	font-family: arial;
+	font-size: 15px;
+	text-align: center;
+	width: 10000px;
+}
+
+.content
+{
+	margin: 0 auto;
+	width: 1000px;
+	height: 1000px.
+	border: 1px solid;
+	font-family: arial;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 0px;
+}
+

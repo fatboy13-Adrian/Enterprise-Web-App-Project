@@ -1,0 +1,19 @@
+<?xml version="1.0" ?> 
+<yrRoot>
+ <Customer>
+  <giftName>giftA</giftName> 
+  <purchases>21</purchases> 
+  </Customer>
+ <Customer>
+  <giftName>giftB</giftName> 
+  <purchases>5</purchases> 
+  </Customer>
+ <Customer>
+  <giftName>giftC</giftName> 
+  <purchases>2</purchases> 
+  </Customer>
+ <Customer>
+  <giftName>giftD</giftName> 
+  <purchases>3</purchases> 
+  </Customer>
+  </yrRoot>

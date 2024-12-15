@@ -1,0 +1,14 @@
+<?xml version="1.0"?> 
+	<yrRoot>
+ 		 <H1>Banned List</H1> 
+			<Admin>
+  				<UserName>CustA</UserName> 
+  				<IC>S1111111A</IC> 
+  				<Amountowe>$100</Amountowe> 
+  			</Admin>
+			<Admin>
+  				<UserName>CustB</UserName> 
+  				<IC>S4444444B</IC> 
+  				<Amountowe>$1000</Amountowe> 
+  			</Admin>
+ 	 </yrRoot>

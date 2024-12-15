@@ -1,0 +1,19 @@
+<?xml version="1.0" ?> 
+	<yrRoot>
+		<Gifts>
+  			<giftName>giftA</giftName> 
+  			<promo>10</promo> 
+		</Gifts>
+		<Gifts>
+  			<giftName>giftB</giftName> 
+  			<promo>8</promo> 
+		</Gifts>
+		<Gifts>
+ 			 <giftName>giftC</giftName> 
+  			<promo>7</promo> 
+		</Gifts>
+		<Gifts>
+ 			 <giftName>giftD</giftName> 
+ 			 <promo>2</promo> 
+		</Gifts>
+</yrRoot>
